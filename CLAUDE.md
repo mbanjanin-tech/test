@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Docs-First Policy
+
+**IMPORTANT:** Before generating any code, always check the `/docs` directory for relevant documentation files. Any code generated must align with the specifications, patterns, and guidelines described in those docs. If a relevant doc exists for the feature or area being worked on, it takes precedence over general conventions.
+
 ## Commands
 
 ```bash
